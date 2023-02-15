@@ -1,2 +1,0 @@
-#!/bin/bash
-git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/{YOUR_REPO}
