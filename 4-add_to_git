@@ -1,0 +1,4 @@
+$ git add .
+
+=> The dot(.) add all changes to git, but you can specify the file name you wanna add to git
+e.g git add filename.txt
