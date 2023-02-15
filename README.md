@@ -1,1 +1,1 @@
-Steps to clone your repository in Linux
+6 steps to clone your repository in Linux
