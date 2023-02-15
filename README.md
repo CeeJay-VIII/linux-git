@@ -1,1 +1,0 @@
-Linux git clone repository
